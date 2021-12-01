@@ -101147,7 +101147,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 research.facebook.com
 0.0.0.0 ro-ro.facebook.com
 0.0.0.0 ru-ru.facebook.com
-0.0.0.0 rupload.facebook.com
+# 0.0.0.0 rupload.facebook.com
 0.0.0.0 s-external.ak.fbcdn.net
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 s-static.ak.facebook.com.edgekey.net
@@ -101802,7 +101802,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z-p3-external.fsdu11-1.fna.fbcdn.net
 0.0.0.0 z-p3-external.fsea1-1.fna.fbcdn.net
 0.0.0.0 z-p3-graph.facebook.com
-0.0.0.0 z-p3-rupload.facebook.com
+# 0.0.0.0 z-p3-rupload.facebook.com
 0.0.0.0 z-p3-scontent-lax3-1.xx.fbcdn.net
 0.0.0.0 z-p3-scontent.facc1-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.faqa1-1.fna.fbcdn.net
@@ -101833,7 +101833,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z-p3.facebook.com
 0.0.0.0 z-p4-api.facebook.com
 0.0.0.0 z-p4-graph.facebook.com
-0.0.0.0 z-p4-rupload.facebook.com
+# 0.0.0.0 z-p4-rupload.facebook.com
 0.0.0.0 z-p4-upload.facebook.com
 0.0.0.0 z-p4.facebook.com
 0.0.0.0 z-upload.facebook.com
