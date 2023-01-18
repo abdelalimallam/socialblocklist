@@ -1,0 +1,7 @@
+# VPN
+0.0.0.0 *.vps.ovh.net
+0.0.0.0 vps.ovh.net
+0.0.0.0 ovh.net
+0.0.0.0 ovh.ca
+0.0.0.0 ovh.us
+0.0.0.0 *.ovh.net
